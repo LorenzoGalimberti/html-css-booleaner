@@ -19,6 +19,7 @@ body{
 }
 
 /* main section */
+/* title section */
 main{
     width: 97%;
     margin-left: 1.5%;
@@ -41,4 +42,13 @@ main{
 }
 #the_booleaner{
     color: blue;
+}
+
+/*  image section */
+.image_section{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+.image_section img{
+    height: 300px;
 }
