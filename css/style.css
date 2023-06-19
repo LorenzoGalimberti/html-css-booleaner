@@ -20,7 +20,7 @@ body{
 
 /* main section */
 /* title section */
-main{
+.main_div{
     width: 97%;
     margin-left: 1.5%;
 }
@@ -51,4 +51,16 @@ main{
 }
 .image_section img{
     height: 300px;
+}
+
+/*paragraph and unordered list section*/
+.yellow_background{
+    background-color: yellow;
+}
+
+.main_div ul {
+   margin-left: 0;
+   padding: 0;
+   list-style-position: inside;
+
 }
