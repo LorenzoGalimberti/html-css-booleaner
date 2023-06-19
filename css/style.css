@@ -7,13 +7,38 @@ body{
 /* header */
 
 .header{
-    background-color: rgb(43, 212, 246);
+    background-color: rgb(121, 233, 255);
     width: 100%;
-    height: 10vh;
+    height: 15vh;
     
 }
 .header img{
-    height: 4vh;
-    margin-top: 3vh;
+    height: 5vh;
+    margin-top: 4vh;
     margin-left: 1%;
+}
+
+/* main section */
+main{
+    width: 97%;
+    margin-left: 1.5%;
+}
+#main_title{
+   margin-top: 5vh;
+   font-weight: 900;
+   font-size: 30px;
+   margin-bottom: 0;
+}
+
+.concatenated_text{
+    margin: 0;
+    color: grey;
+
+}
+
+.small_text{
+    font-size: 10px;
+}
+#the_booleaner{
+    color: blue;
 }
