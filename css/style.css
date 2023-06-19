@@ -64,3 +64,24 @@ body{
    list-style-position: inside;
 
 }
+
+/* table section */
+.table_div{
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+table{
+    
+    width: 100%;
+    margin: 0;
+}
+th{
+    background-color: rgb(156, 161, 251);
+    color: white;
+}
+td{
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
